@@ -1,0 +1,17 @@
+h2{
+    
+    color: rgb(150, 192, 212);
+   font-size: 60px; 
+   text-shadow: 10px 10px 10px rgb(241, 237, 237);
+}
+
+
+.lin{
+        color:rgb(4, 28, 78) ;
+        font-size: 40px;
+        text-decoration: none;
+    }
+    body{
+        background-repeat: no-repeat;
+        background-size: cover;
+    }

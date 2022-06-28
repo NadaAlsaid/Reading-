@@ -1,0 +1,116 @@
+video{
+  position:relative;
+  left: 25%;
+}
+h2{
+  text-align: center;
+  font-size: 40px;
+  color: #08264e;
+  text-transform: capitalize;
+}
+body{
+  background-image: url("https://i.pinimg.com/564x/17/92/ae/1792aee61df141a59d3e9b7d4466e299.jpg");
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+.form1{
+  position: absolute;
+  top: 112%;
+  width: 300px;
+  height: 300px;
+  background-color: var(--section-background);
+  border-radius: 150px;
+  border: none;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+  -ms-border-radius: 150px;
+  -o-border-radius: 150px;
+}
+
+
+#icon1{
+  color: #087db9;
+  margin-top: 15%;
+  margin-left: 23% ;
+  font-size: 150px;
+  
+}
+p{
+  text-align: center;
+  font-size: 30px;
+  color: #042551;
+}
+
+.team{
+  text-align: center;
+  font-size: 50px;
+  color: #d0d7e0;
+}
+.form2{
+  position: absolute;
+  top:112% ;
+  left: 25%;
+  width: 300px;
+  height: 300px;
+  background-color: var(--section-background);
+  border-radius: 150px;
+  border: none;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+  -ms-border-radius: 150px;
+  -o-border-radius: 150px;
+}
+
+
+#icon2{
+  color: #087db9;
+  margin-top: 15%;
+  margin-left: 23% ;
+  font-size: 150px;
+  
+}.form3{
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  top:112% ;
+  left: 50%;
+  background-color: var(--section-background);
+  border-radius: 150px;
+  border: none;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+  -ms-border-radius: 150px;
+  -o-border-radius: 150px;
+}
+
+
+#icon3{
+  color: #087db9;
+  margin-top: 15%;
+  margin-left: 23% ;
+  font-size: 150px;
+  
+}.form4{
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  top:112% ;
+  left: 75%;
+  background-color: var(--section-background);
+  border-radius: 150px;
+  border: none;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+  -ms-border-radius: 150px;
+  -o-border-radius: 150px;
+}
+
+
+#icon4{
+  color: #087db9;
+  margin-top: 15%;
+  margin-left: 23% ;
+  font-size: 150px;
+  
+}

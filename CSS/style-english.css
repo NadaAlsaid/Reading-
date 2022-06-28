@@ -1,0 +1,127 @@
+body{
+  background-image: url("../image/23.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  text-align: center;
+  background-attachment: fixed;
+  font-family: 'Amiri', serif;
+}
+.h2{
+  /* 
+  position: absolute;
+  top:-10%;
+  right:35%; */ 
+  font-size: 100px;
+  position: fixed;
+  color: #f7fafb;
+  top:-20%;
+  left: 31%;
+  text-shadow: -3px 5px 10px rgb(171 164 127);
+  text-transform: capitalize;
+
+}
+.h1{
+  font-size: 100px;
+  position: fixed;
+  color: #f7fafb;
+  top:-15%;
+  left: 31%;
+  text-shadow: -3px 5px 10px rgb(171 164 127);
+  text-transform: capitalize;
+
+}
+i{
+  color: #087db9;
+  font-size: 100px;
+  position: fixed;
+  top:7%;
+  left: 25%;
+}
+
+.register{
+  text-transform: capitalize;
+  font-size: 60px;
+  color: #f7fafb;
+}
+
+.form{
+  position:absolute;
+  top:25%;
+  right:40%;
+  color: #f7fafb;
+  text-shadow: -2px 4px 3px rgb(82 113 212);
+  border-radius: 0px 15px 0px 15px;
+  border-color: rgb(214 227 230);
+}
+.form1{
+  position:absolute;
+  top:25%;
+  right:37%;
+  color: #f7fafb;
+  text-shadow: -2px 4px 3px rgb(82 113 212);
+  border-radius: 0px 15px 0px 15px;
+  border-color: rgb(214 227 230);
+}
+.info{
+  border-radius: 0px 10px 0px 10px;
+  font-size: 30px;
+  border-color: rgb(47 79 156);
+}
+.info:focus{
+  border-color: rgb(108 152 118);
+  outline: none;
+}
+.name{
+  font-size: 30px;
+}
+.save{
+  border-radius: 0px 10px 0px 10px;
+  line-height: 1.6;
+  width: 140px;
+  font-size: 20px;
+  border-color: cornsilk;
+  box-shadow: 0px 0px 0px wheat;
+}
+.book{
+  font-size: 50px;
+  line-height: 1.6px;
+  color: #f7fafb;
+  text-shadow: -3px 5px 2px rgb(109 23 39);
+}
+
+.lang{
+  float: left;
+  overflow: hidden;
+  position: fixed;
+  top: 2%;
+  left: 4px;
+  color: #f7fafb;
+  font-size: larger;
+}
+.lang-ar 
+{
+  float: left;
+  overflow: hidden;
+  position: fixed;
+  top: 6%;
+  left: 4px;
+  color: #f7fafb;
+  font-size: larger;
+}
+.reg{
+  color: #f7fafb;
+  font-size: larger;
+}
+.reg:hover{
+  color: #ac0924;
+}
+.lang:hover{
+  color: #ac0924;
+}
+.lang-ar:hover{
+  color: #ac0924;
+}
+
+a{
+  text-decoration: none;
+}

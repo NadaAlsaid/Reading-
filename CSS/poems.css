@@ -1,0 +1,18 @@
+h2{
+  color: rgb(178, 206, 245);
+  font-size: 80px; 
+  text-shadow: 10px 7px 10px rgb(67, 110, 146);
+}
+h3{ 
+  font-size: 50px;
+  color: rgb(81 135 206);
+}
+p{
+  color: rgb(152, 177, 223);
+  font-size: 30px; 
+}
+
+body{
+  background-repeat: no-repeat;
+
+}

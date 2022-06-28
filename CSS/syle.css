@@ -1,0 +1,80 @@
+.head{
+  /* color: #63a9f2; */
+  color: mediumvioletred;
+
+  font-size: 60px;
+   border-radius: 10px;
+   /* text-shadow: 3px -2px 9px rgb(16 53 113); */
+   text-shadow: 3px -2px 9px rgb(12 173 152);
+
+   /*text-transform: capitalize;
+   */text-align: center;
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   -ms-border-radius: 10px;
+   -o-border-radius: 10px;
+
+}
+
+#p1{
+  float: left;
+  position:absolute;
+  left:100px;
+  top: 280px;
+  
+}
+#p2{
+  
+  float: right;
+  position:absolute;
+  right:100px;
+  top: 280px;
+}
+#p3{
+
+  float: right;
+  position:absolute;
+  right:650px;
+  top: 280px;
+}
+#p4{
+  float: left;
+  position:absolute;
+  right:650px;
+  top: 780px;
+
+}
+
+#p5{
+  float: left;
+  position:absolute;
+  left:100px;
+  top: 780px;
+  
+}
+
+#p6{
+  float: right;
+  position:absolute;
+  right:100px;
+  top: 780px;
+} 
+
+.lin{
+  text-decoration: none;
+  /* text-shadow: 3px -2px 9px rgb(16 53 113); */
+  text-shadow: 3px -2px 9px darkmagenta;
+
+  font-size: 30px;
+  /* position: relative;
+  left: 70px; */
+  border-radius: 10px;
+  /* color: #c7ced6; */
+  color: mediumvioletred;
+
+  text-transform: capitalize;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
