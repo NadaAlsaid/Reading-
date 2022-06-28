@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="UTF-8">
+  <title>Reading lovers</title>
+  <link rel="stylesheet" href="CSS/style-english.css">
+  <link rel="stylesheet" href="CSS/all.min.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Amiri:wght@700&display=swap" rel="stylesheet">
+</head>
+<body tabindex="0" >
+
+
+  <h2 class="h1">
+    <blockquote>reading lovers</blockquote>
+  </h2>
+  <i class="fas fa-book-reader"></i>
+  <a href="register.html" class="lang" >English </a>
+  <a href="register-ar.html" class="lang-ar" >عربي</a>
+  <div class="wrapper">
+    <form class="formsignUP"   method="POST">
+      <fieldset class="form">
+        <legend class="register">register</legend>
+        <br>
+        <div>
+          <label class="name" id="nameField">Username </label>
+          <br>
+          <input type="text" class="info" name="nameField" id="userName" placeholder="Username" required checked>
+          <br>
+          <label class="name" id="emailField" >E-mail </label>
+          <br>
+          <input type="email" class="info" name="emailField" id="Email" placeholder="E-mail">
+          <br>
+          <label class="name" id="passwordField">Password </label>
+          <br>
+          <input type="password" class="info" name="passwordField" id="pass" minlength="8" maxlength="100" placeholder="Password" required>
+          <br>
+          <label class="name">Phone number </label>
+          <br>
+          <input type="number" class="info" placeholder="your numder">
+          <br>
+          <label class="name">Birth date</label>
+          <br>
+          <input type="date" id="date" class="info" min="1970-01-01" max="2050-01-01" required>
+          <br>
+          <br>
+          <input type="submit" name="submit" class="save" value="submit" id="sub" />
+        </div>
+      </fieldset>
+    </form>
+  </div>
+  <script type="text/javascript" src="js/data2.js"></script>
+
+
+</body>

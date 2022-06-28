@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="UTF-8">
+  <title>Reading lovers</title>
+  <link rel="stylesheet" href="CSS/style-english.css">
+  <link rel="stylesheet" href="CSS/all.min.css">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Amiri:wght@700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <h2 class="h2">
+    <blockquote>reading lovers</blockquote>
+  </h2>
+  <i class="fas fa-book-reader"></i>
+
+  <a href="enter.html" class="lang" >English </a>
+  <a href="enter-ar.html" class="lang-ar" >عربي</a>
+  <div class="wrapper">
+  <form id="loginForm" class ="loginForm" name="login" onsubmit="return validateForm();" method="POST">
+    <fieldset class="form1">
+      <legend class="register">
+        <bdi>Enter</bdi>
+      </legend>
+      <br>
+      <label class="name">Username </label>
+      <br>
+      <input type="text" class="info" placeholder="Username" required id="username">
+      <br>
+      <label class="name">E-mail </label>
+      <br>
+      <input type="email" class="info" placeholder="mail" id="email">
+      <br>
+      <label class="name">
+        Password
+      </label>
+      <br>
+      <input type="password" class="info" minlength="8" maxlength="100" placeholder="password" required id="password">
+      <br>
+      <br>
+      <input type="button" class="save" value="submit" name="submit" onclick="validate()" >
+      <p class="p">don't have account ? <a class="reg" href="register.html"> create one</a></p>
+    </fieldset>
+  </form>
+</div>
+  <!-- <script type="text/javascript" src="js/data2.js"></script> -->
+  <script type="text/javascript" src="js/data3.js"></script>
+</body>

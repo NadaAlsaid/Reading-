@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="UTF-8">
+  <title>عشاق القراءة</title>
+  <link rel="stylesheet" href="css/style-arabic.css">
+  <link rel="stylesheet" href="CSS/all.min.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Amiri:wght@700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <h2 >
+    <blockquote>
+      عشاق القراءة
+    </blockquote>
+  </h2>
+  <a href="enter.html" class="lang" >English </a>
+  <a href="enter-ar.html" class="lang-ar" >عربي</a>
+  <i class="fas fa-book-reader"></i>
+  <div class="wrapper">
+    <form id="loginForm" class ="loginForm" name="login" onsubmit="return validateForm();" method="POST">
+      <fieldset class="form">
+        <legend class="register">
+          <bdi>تسجيل الدخول</bdi>
+        </legend>
+        <br>
+        <label class="name">الاسم </label>
+        <br>
+        <input type="text" class="info" required id="username" placeholder="اسم" >
+        <br>
+        <label class="name">ايميل </label>
+        <br>
+        <input type="email" class="info" placeholder="ايميل" id="email">
+        <br>
+        <label class="name">
+          <bdi>كلمة المرور</bdi>
+        </label>
+        <br>
+        <input type="password" class="info" minlength="8" maxlength="100" required id="password" placeholder="كلمة المرور" >
+        <br>
+        <br>
+        <input type="button" class="save" value="تسجيل" name="تسجيل" onclick="validate()">
+        <p class="p"> ليس لديك حساب ؟ <a class="reg" href="register-ar.html"> انشأ حسابك</a></p>
+      </fieldset>
+    </form>
+  </div>
+  <script type="text/javascript" src="js/data3.js"></script>
+</body>
