@@ -12,9 +12,7 @@
         <li>Science Fiction Books</li>
         <li>Programming Books</li>
         <li>Sceintific Books</li>
-        <li>Human Development Books</li>
-        
-     </i> 
+        <li>Human Development Books</li>  </i>
    </li>
    
 <li>Novels</li>
@@ -28,8 +26,7 @@
 <li>Tourist Attractions</li>
    
 <li>Essays</li>
-
- </i>
+</i>
 <div align="center"><img src="https://user-images.githubusercontent.com/92337927/189414991-f5e17f25-c5f0-40ce-b344-d0f92a15308d.png" width="700px" ></div>
 <br>
 <div align="center"><img src="https://user-images.githubusercontent.com/92337927/189414917-d73c241f-3748-48c6-b805-5257d455103d.png" width="700px" ></div>
