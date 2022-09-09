@@ -1,7 +1,35 @@
 <div align="center">
    <h1>Reading Lovers <img  src="https://user-images.githubusercontent.com/92337927/176305419-8e6697fb-b011-4e12-80e8-463a771f8fff.png" width="30px" > </h1>
 </div>
+<i>
+<li>Preprocessing</li>
+   
+<li>Books
+     <i>
+        <li>Historical Books</li>
+        <li>Horror Books</li>
+        <li>Islamic Books</li>
+        <li>Science Fiction Books</li>
+        <li>Programming Books</li>
+        <li>Sceintific Books</li>
+        <li>Human Development Books</li>
+        
+     </i> 
+   </li>
+   
+<li>Novels</li>
+   
+<li>Poetry </li>
+   
+<li>Poems</li>
+   
+<li>Short Stories</li>
+   
+<li>Tourist Attractions</li>
+   
+<li>Essays</li>
 
+ </i>
 <div align="center"><img src="https://user-images.githubusercontent.com/92337927/189414991-f5e17f25-c5f0-40ce-b344-d0f92a15308d.png" width="700px" ></div>
 <br>
 <div align="center"><img src="https://user-images.githubusercontent.com/92337927/189414917-d73c241f-3748-48c6-b805-5257d455103d.png" width="700px" ></div>
@@ -34,27 +62,4 @@
 <br>
 <div align="center"><img src="https://user-images.githubusercontent.com/92337927/189416577-35f45ecf-cee0-43b4-82c8-c37f19f25a02.png" width="700px" ></div>
 <br>
-<!--
-<i>
-<li>Preprocessing</li>
-   
-<li>LDA for Feature Extraction </li>
-   
-<li>Data scalling</li>
-   
-<li>Logistics Regression algorithm </li>
-   
-<li>SVM algorithm</li>
-   
-<li>Decision Tree algorithm ( ID3 ) </li>
-   
-<li>Random Forest algorithm </li>
-   
-<li>Navie Bayes algorithm </li>
-   
-<li>KNN algorithm</li> 
-   
-<li>Tkinter Library for GUI </li> 
- </i>
- 
--->
+
