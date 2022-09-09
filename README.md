@@ -2,18 +2,14 @@
    <h1>Reading Lovers <img  src="https://user-images.githubusercontent.com/92337927/176305419-8e6697fb-b011-4e12-80e8-463a771f8fff.png" width="30px" > </h1>
 </div>
 <i>
-<li>Books
-        <ul>
-        <h5>- Historical Books</h5>
+<li>Books<ul><h5>- Historical Books</h5>
         <h5>- Horror Books</h5>
         <h5>- Islamic Books</h5>
         <h5>- Science Fiction Books</h5>
-        <li>- Programming Books</li>
-        <li>- Sceintific Books</li>
-        <li>- Human Development Books</li> 
+        <h5>- Programming Books</h5>
+        <h5>- Sceintific Books</h5>
+        <h5>- Human Development Books</h5> 
            </ul>
-  
-
    </li>
    
 <li>Novels</li>
