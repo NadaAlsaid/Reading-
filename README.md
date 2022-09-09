@@ -3,7 +3,7 @@
 </div>
 <h3>Our website contains :-  </h3>
 <ul>
-  <li> Books<ul> <details>
+  <li>  <details>Books<ul>
      <h5>- Historical Books</h5>
         <h5>- Horror Books</h5>
         <h5>- Islamic Books</h5>
