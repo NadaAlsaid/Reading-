@@ -3,7 +3,8 @@
 </div>
 <h3>Our website contains :-  </h3>
 <ul>
-  <li> Books<ul><h5>- Historical Books</h5>
+  <li> Books<ul> <details>
+     <h5>- Historical Books</h5>
         <h5>- Horror Books</h5>
         <h5>- Islamic Books</h5>
         <h5>- Science Fiction Books</h5>
@@ -11,6 +12,7 @@
         <h5>- Sceintific Books</h5>
         <h5>- Human Development Books</h5> 
            </ul>
+      </details>
    </li>
    
   <li>Novels</li>
