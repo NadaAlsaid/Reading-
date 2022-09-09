@@ -3,17 +3,17 @@
 </div>
 <i>
 <li>Books
-   <div>
-     <i>
-        <li><ul>Historical Books</ul></li>
+        <ul>
+        <li>Historical Books</li>
         <li>Horror Books</li>
         <li>Islamic Books</li>
         <li>Science Fiction Books</li>
         <li>Programming Books</li>
         <li>Sceintific Books</li>
-        <li>Human Development Books</li>  
-      </i>
-      </div>
+        <li>Human Development Books</li> 
+           </ul>
+  
+
    </li>
    
 <li>Novels</li>
