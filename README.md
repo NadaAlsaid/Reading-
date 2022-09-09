@@ -3,7 +3,7 @@
 </div>
 <h3>Our website contains :-  </h3>
 <ul>
-  <li><details><summary>:zap:<h4>Books</h4></summary><ul>
+  <li><details><summary><h4>Books</h4></summary><ul>
      <h5>- Historical Books</h5>
         <h5>- Horror Books</h5>
         <h5>- Islamic Books</h5>
