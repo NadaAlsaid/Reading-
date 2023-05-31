@@ -14,7 +14,6 @@
            </ul>
       </details>
    </li>
-   
   <li>Novels</li>
    
   <li>Poetry </li>
