@@ -3,15 +3,14 @@
 </div>
 <h3>Our website contains :-  </h3>
 <ul>
-  <li><details><summary><h4>Books</h4></summary><ul>
+  <li><details><summary>Books</summary><ul>
      <h5>- Historical Books</h5>
         <h5>- Horror Books</h5>
         <h5>- Islamic Books</h5>
         <h5>- Science Fiction Books</h5>
         <h5>- Programming Books</h5>
         <h5>- Sceintific Books</h5>
-        <h5>- Human Development Books</h5> 
-           </ul>
+        <h5>- Human Development Books</h5> </ul>
       </details>
    </li>
   <li>Novels</li>
